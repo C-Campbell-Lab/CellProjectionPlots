@@ -13,5 +13,5 @@ the corresponding region on the feature map, i.e., the first output of the model
 
 ![Feature Extraction](https://github.com/TahDeh/Cell_Projection_Plot/blob/main/images/overview%20Yolo%20features.jpg)
 
-## Cell Detection Models
+## Cell Detection Model
 A pre-trained YOLO model were repurposed to be used in this study. The model's weights can be found [here](https://zenodo.org/record/6373429#.Y4_DUHbMKUk). 
