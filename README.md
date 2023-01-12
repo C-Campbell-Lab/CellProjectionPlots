@@ -1,5 +1,5 @@
 # Cell Projection Plots (CPP): a novel visualization of bone marrow aspirate cytology
-Here are sample codes used in the paper titled; _Cell projection plots: a novel visualization of bone marrow aspirate cytology_
+Here are sample codes used in the paper titled; [_Cell projection plots: a novel visualization of bone marrow aspirate cytology_](https://www.biorxiv.org/content/10.1101/2022.12.06.519348v1)
 
 A sample CPP is shown here that shows orderly neutrophil maturation in a normal bone marrow aspirate. CPPs were evaluated by hematopathologists to check their descriptive value. 
 
